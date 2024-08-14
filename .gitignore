@@ -1,0 +1,33 @@
+# Byte-compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment variables
+.env
+
+# Virtual environment
+venv/
+ENV/
+env/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.swp
+
+# Maps
+OPENED maps/
+
+# IDE/editor specific files
+.vscode/
+.idea/
+*.suo
+*.sln
+
+# System files
+.DS_Store
+Thumbs.db
