@@ -16,8 +16,8 @@ This project is a world clock application with a graphical user interface (GUI) 
 
 1. **Clone the Repository:**
 
-    git clone https://github.com/SURAJVERMA-BIT/world-clock.git
-    cd world-clock
+    git clone https://github.com/SURAJVERMA-BIT/EARTH-CLOCK.git
+    cd EARTH-CLOCK
 
 2. **Create a Virtual Environment (Optional but recommended):**
 
